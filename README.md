@@ -1,6 +1,4 @@
-# S5-kruskal
-Análisis no-paramétricos usando la prueba de Kruska-Wallis
-# S5-kruskal-Wallis y Wilcoxon 
+# S5 Kruskal-Wallis y Wilcoxon 
 Análisis no-paramétricos usando las pruebas de Kruska-Wallis y Wilcoxon
 
 
