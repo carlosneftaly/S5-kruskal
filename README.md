@@ -7,14 +7,16 @@ __Nota__: recuerde registrar sus datos con las variables en cada columna y las o
 
 ## Descripción 
 
-Este script contiene los comandos necesarios para ejecutar un análisis _no paramétrico usando el test de Kruskal-Wallis_ y uno _no paramétrico utilizando el test de Wilcoxón_. Para el primer ejemplo (Kruskal-Wallis), los datos corresponden a un factor, denominado "Tratamiento", con 5 niveles y la variable respuesta _Pmortalidad_.  
+Este script contiene los comandos necesarios para ejecutar un análisis _no paramétrico usando el test de Kruskal-Wallis_ y uno _no paramétrico utilizando el test de Wilcoxón_. Para el primer ejemplo (_Kruskal-Wallis_), los datos corresponden a un factor, denominado "Tratamiento", con 5 niveles y la variable respuesta _Pmortalidad_.  
 
-++ Variable respuesta: Porcentaje de mortalidad (_Pmortalidad_).
-++ Variable explicativa: Tratamiento. 
++ Variable respuesta: Porcentaje de mortalidad (_Pmortalidad_).
+
++ Variable explicativa: Tratamiento. 
 
 
 
 Para el segundo ejemplo (Wilcoxon), los datos corresponden a un factor, denominado "Fertilidad", con 2 niveles y la variable respuesta _Especies_.  
 
-++ Variable respuesta: Número de especies (_Especies_).
-++ Variable explicativa: Fertilidad. 
++ Variable respuesta: Número de especies (_Especies_).
+
++ Variable explicativa: Fertilidad. 
